@@ -57,7 +57,7 @@ r = R_1_MP * pih(+1) + R_2_MP * y(+1) + rr ;
 
 % Open Economy 
 [name ='Open Economy Equation']
-pih(+1) = R_1_O * ttau + R_2_O * piw + R_3_O * e ;                                                                    % eq4 
+pih(+1) = R_1_O * ttau + R_2_O * piw + R_3_O * e ;   
 
 % shock processes
 % Output Shock 
