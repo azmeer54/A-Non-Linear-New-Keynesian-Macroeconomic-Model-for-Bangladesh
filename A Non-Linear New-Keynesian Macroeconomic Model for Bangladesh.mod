@@ -1,6 +1,6 @@
 /*
  * This file estimates the New Keynesian model of Md. Azmeer Rahman Sorder (2022) for research monograph titled. 
- * Codes for the monograph titled "A Non-Linear New-Keynesian Macroeconomic Model for Bangladesh". 
+ * Codes for the monograph titled "A Non-Linear New-Keynesian Macroeconomic Model for Bangladesh". Here y = ln Y 
 */
 
 % The Endogeneous Variables
