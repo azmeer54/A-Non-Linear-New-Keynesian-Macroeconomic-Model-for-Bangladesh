@@ -6,12 +6,12 @@
 % The Endogeneous Variables
 
 var	y ${y}$ (long_name='Real GDP (Natural Log)')
-    r ${r}$ (long_name='Real Interest Rate')
-    pih ${pih}$ (long_name='Domestic Inflation')                                       
+    	r ${r}$ (long_name='Real Interest Rate')
+    	pih ${pih}$ (long_name='Domestic Inflation')                                       
 	piw ${piw}$ (long_name='World Inflation')   
-    ttau ${ttau}$ (long_name='Terms of Trade')           
+    	ttau ${ttau}$ (long_name='Terms of Trade')           
 	e ${e}$ (long_name='Real Effective Exchange Rate') 
-    ry rpih rr 
+    	ry rpih rr 
         ;
 
 % The Exogenous Variables
